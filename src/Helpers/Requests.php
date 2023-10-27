@@ -15,7 +15,7 @@ abstract class Requests
 
     protected array|object $headers = [];
 
-    protected function setHeaders(array $headers = [])
+    protected function setHeaders(#[\SensitiveParameter] array $headers = [])
     {
         $this->headers = $headers;
     }
