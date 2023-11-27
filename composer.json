@@ -1,7 +1,6 @@
 {
     "name": "juanelo/conbaise",
     "description": "Project Class for Coinbase API",
-    "type": "project",
     "autoload": {
         "psr-4": {
             "JuaneloCoinbase\\" : "./src"
