@@ -9,10 +9,12 @@
     "authors": [
         {
             "name": "Juanelo53",
-            "email": "juanelo@juanelocode.xyz"
+            "email": "juanelo_coder2@hotmail.com"
         }
     ],
     "require": {
-        "vlucas/phpdotenv": "*"
+        "vlucas/phpdotenv": "*",
+        "php": ">=8.2",
+        "another-vendor/package": "1.*"
     }
 }
