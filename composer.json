@@ -1,6 +1,7 @@
 {
     "name": "juanelo/conbaise",
     "description": "Project Class for Coinbase API",
+    "licence": "MIT",
     "autoload": {
         "psr-4": {
             "JuaneloCoinbase\\" : "./src"
